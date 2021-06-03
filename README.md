@@ -1,11 +1,23 @@
-<h1>Hello 👋</h1>
+<h2>Hello 👋</h2>
 
-My name is Facundo, I'm from Argentina and i'm finishing my studies in computer networks.
+<p>My name is Facundo, I'm from Argentina and I'm finishing my studies in computer networks.
 
-I'm interested in learn more about Docker, Python and Bash script.
-Also, I like the photography.
+I'm interested in learn more about Linux, Docker, Python and Bash.</p>
 
+<h4>Currently learning</h4>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+<h4>Hobbies</h4>
+<p>I like the photography.</p>
+
+<h4>Contact</h4>
 <p><a href="https://www.linkedin.com/in/facundo-chaves-del-pino-97917711b/">Linkedin</p>
+  
+  
 <!--
 **Favez/favez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
